@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Impor",
+        "cover": "https://static.wikia.nocookie.net/papersplease/images/5/55/Imporian_passport.png/revision/latest?cb=20130802080205",
+        "data-page": "https://vignette2.wikia.nocookie.net/papersplease/images/2/26/Impor_passport_open.png"
+    },
+    {
+        "name": "Republia",
+        "cover": "https://static.wikia.nocookie.net/papersplease/images/8/8b/Republian_passport.png/revision/latest?cb=20130802080206",
+        "data-page": "https://static.wikia.nocookie.net/papersplease/images/1/16/Vince_passport_1160.png/revision/latest?cb=20180316155038"
+    },
+    {
+        "name": "United Federation",
+        "cover": "https://static.wikia.nocookie.net/papersplease/images/e/ea/Federal_passport.png/revision/latest?cb=20130802080206",
+        "data-page": "https://static.wikia.nocookie.net/papersplease/images/0/0a/United_federation_passport_1160.png/revision/latest?cb=20180316154512"
+    },
+    {
+        "name": "Kolechia",
+        "cover": "https://static.wikia.nocookie.net/papersplease/images/5/5f/Kolechian_passport.png/revision/latest?cb=20130802074832",
+        "data-page": "https://static.wikia.nocookie.net/papersplease/images/a/aa/Kolechia_passport_open.png/revision/latest?cb=20130812053542"
+    },
+    {
+        "name": "Obristan",
+        "cover": "https://static.wikia.nocookie.net/papersplease/images/a/a3/Obrista_passport.png/revision/latest?cb=20130802080205",
+        "data-page": "https://static.wikia.nocookie.net/papersplease/images/9/99/Obristan_passport_1160.png/revision/latest?cb=20180316154511"
+    },
+    {
+        "name": "Arstotzka",
+        "cover": "https://static.wikia.nocookie.net/papersplease/images/2/2d/PassportOuterArstotzka.png/revision/latest?cb=20130624094123",
+        "data-page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2MF5jYi8tltIrMxIYANg6Fa3ycUCLJsrnQg&usqp=CAU"
+    },
+    {
+        "name": "Antegria",
+        "cover": "https://static.wikia.nocookie.net/papersplease/images/4/49/Antegrian_passport.png/revision/latest?cb=20130802080205",
+        "data-page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv98y5l2-zP5C7N45NfR2UzszcZ3RI7ZFTIHnPacYmEVrnXoLHaIdvBvCHBWggY8l8uqs&usqp=CAU"
+    }
+    
+]
